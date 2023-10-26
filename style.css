@@ -1,8 +1,36 @@
 h1{
     color:rgb(0, 0, 0);
+    font-family: Courier, Impact, Arial;
 }
-
 
 h2{
     color:rgb(0, 55, 255);
+}
+
+body{
+    background: #b3adad;;
+    font-size: 125%;
+}
+
+header{
+    background: #666666;
+    text-align: center;
+}
+
+nav{
+    font-variant: small-caps;
+    font-family: Arial,"Time New Roman", serif;
+    font-size: 150%;
+}
+
+summary{
+    font-style: normal;
+}
+
+details{
+    font-style: italic;
+}
+
+footer{
+    background: #666666;
 }
