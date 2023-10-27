@@ -1,16 +1,9 @@
 h1{
-    color:rgb(0, 0, 0);
-    font-family: Courier, Impact, Arial;
-}
-
-h2{
-    color:rgb(0, 55, 255);
-}
-
-body{
-    background: #c7c0c0;;
-    font-size: 125%;
-    margin-left: 40px;
+    color:rgb(255, 255, 255);
+    background: #adadad;
+    font-family: serif;
+    text-align: center;
+    margin-bottom: 1px;
 }
 
 header{
@@ -18,14 +11,44 @@ header{
     text-align: center;
 }
 
+h2{
+    color:rgb(0, 0, 0);
+    background: #24d4f3;
+    text-indent: 12px;
+
+}
+
+body{
+    font-size: 95%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+
 nav{
+    background: #636363;
     font-variant: small-caps;
-    font-family: Arial,"Time New Roman", serif;
-    font-size: 150%;
+    font-family: Arial, "Time New Roman", serif;
+    font-size: 120%;
+    text-align: center;
+}
+
+p{
+    text-indent: 12px;
+}
+
+progress{
+
+    text-indent: 12px;
+
 }
 
 summary{
     font-style: normal;
+    text-indent: 12px;
 }
 
 details{
