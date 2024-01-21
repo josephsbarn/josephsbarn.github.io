@@ -74,6 +74,20 @@ header {
     text-align: center;
 }
 
+
+#park_info{
+    font-size: 2em;
+}
+
+#info_list
+{
+    padding-left: 30px; 
+    padding-right: 30px;
+
+}
+
+
+
 #bg, #map{
     width: 100%; /* Adjust the width as needed */
     height: auto; /* Maintain the aspect ratio */
