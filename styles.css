@@ -197,9 +197,8 @@ ol{
     list-style:decimal
 }
 
-#aam{
+#sub_list{
     font-size: 0.9em;
-    font-style: italic;
     list-style: circle;
 }
 
