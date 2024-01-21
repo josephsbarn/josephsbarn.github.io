@@ -15,8 +15,7 @@ p{
 } 
 
 /* Show the link when it's being hovered over */
-.skip:hover,
-.skip:active {
+.skip:hover {
     display: inline;
     color: #ff7700;
     text-decoration: none;
