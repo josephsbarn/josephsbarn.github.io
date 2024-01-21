@@ -229,5 +229,7 @@ li{
 }
 
 .link{
-    font-size: 0.95em;
+    font-size: 0.85em;
+    font-family:sans-serif;
+    text-decoration: none;
 }
