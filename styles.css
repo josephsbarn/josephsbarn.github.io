@@ -6,7 +6,8 @@ body{
 
 .skip {
     /* display: inline; */
-    color: #003402;
+    color: #ff7700;
+    opacity: 0;
 }
 
  
@@ -22,6 +23,7 @@ p{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.0em;
+    opacity: 1;
 } 
 
 
