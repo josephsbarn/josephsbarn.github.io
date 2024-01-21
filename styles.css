@@ -192,8 +192,9 @@ footer {
 .desc{
     padding-top: 10px;
     text-align: center;
-    font-size: 150%;
-    font-family: Arial, Helvetica, sans-serif
+    font-size: 1500%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 100, 100);
 }
 
 ol{
