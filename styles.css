@@ -138,7 +138,8 @@ footer {
 #Page{
     /* background-color: #256a3a; */
     background-color: #ff7700;
-    color: rgb(255, 255, 255);
+    color: #003402;
+    /* color: rgb(255, 255, 255); */
     font-weight: bold;
 }
 
