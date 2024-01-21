@@ -5,7 +5,7 @@ body{
 
 
 .skip {
-    display: inline;
+    /* display: inline; */
     color: #003402;
 }
 
@@ -16,7 +16,7 @@ p{
 
 /* Show the link when it's being hovered over */
 .skip:hover {
-    display: inline;
+    /* display: inline; */
     color: #ff7700;
     text-decoration: none;
     text-align: left;
