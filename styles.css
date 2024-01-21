@@ -177,7 +177,7 @@ footer {
 }
 
 .photos :nth-child(even) .item {
-    border: 6px solid rgb(138, 238, 138);
+    border: 6px solid #209618;
 }
 
 
