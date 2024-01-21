@@ -159,17 +159,26 @@ footer {
 .photos{
     display:grid;
     grid-template-columns: 33% 33% 33%;
-    grid-gap: 0;
+    grid-gap: 12px;
     padding: 2%;
-
+    margin: 0 auto; /* Added to center the grid on the page */
 }
+
 
 
 .item {
     background-color: lightblue;
-    padding: 7px;
+    padding: 0px;
 }
 
+
+.photos :nth-child(odd) .item {
+    border: 6px solid #ff8a23;
+}
+
+.photos :nth-child(even) .item {
+    border: 6px solid rgb(138, 238, 138);
+}
 
 
 .amenities{
