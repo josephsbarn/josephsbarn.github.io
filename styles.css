@@ -58,13 +58,14 @@ nav a {
     border-radius: 5px;
     font-size: 140%;
     transition: background-color 0.3s;
+}
 
-    &:hover {
+nav a:hover {
         /* background-color: #256a3a; */
         background-color: #ff7700;
         color: rgb(255, 255, 255);
-    }
 }
+
 
 /* Other existing styles for header, main, and footer if needed */
 header {
